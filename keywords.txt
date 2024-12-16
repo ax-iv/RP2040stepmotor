@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For EncButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+RP2040stepmotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+st.setAcceleration  KEYWORD2
+setMaxSpeed KEYWORD2
+setTarget KEYWORD2
+getSpeed    KEYWORD2
+getCurrentDeg KEYWORD2
+stop KEYWORD2
+brake KEYWORD2
+enable KEYWORD2
+disable KEYWORD2
+isEnable KEYWORD2
+getState  KEYWORD2
+ready KEYWORD2
+onChangeStage KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################	
+STOPPED LITERAL1
+ACCELERATION    LITERAL1
+RUN LITERAL1
+SLOWDOWN    LITERAL1
+STARTED     LITERAL1
